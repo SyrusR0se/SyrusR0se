@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #333; position: relative; left: 50px;">Syurs</h1>
+  <h1 style="color: #333; position: relative; left: 50px;">Syrus</h1>
   <p style="font-size: 18px; color: #555; position: relative; left: 50px;">
     Hello, and welcome to SyrusR0se's GitHub. Here, I conduct tests and develop future projects. While the programming language may vary, my primary focus is on innovative ideas. Thank you for taking the time to visit.
   </p>
