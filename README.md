@@ -13,19 +13,16 @@
 </p>
 
 <p align="center">
-  <!-- Estatísticas do GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=SyrusR0se&show_icons=true&theme=dark" 
        alt="Estatísticas GitHub" />
 </p>
 
 <p align="center">
-  <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyrusR0se&layout=compact&theme=dark" 
        alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <!-- Gráfico de Atividade -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyrusR0se&bg_color=21262d&color=58a6ff&line=3098c7&point=66ccff&area=true&area_color=323a47" 
        alt="Atividade GitHub" />
 </p>
