@@ -1,8 +1,7 @@
 <div align="center">
   <h1 style="color: #333; position: relative; left: 50px;">Syurs</h1>
   <p style="font-size: 18px; color: #555; position: relative; left: 50px;">
-    Olá, este é o GitHub de SyrusR0se. Aqui realizarei meus testes e futuros projetos, independente da linguagem, 
-    o que irá predominar são as ideias. Obrigado por ler até aqui :D
+    Hello, and welcome to SyrusR0se's GitHub. Here, I conduct tests and develop future projects. While the programming language may vary, my primary focus is on innovative ideas. Thank you for taking the time to visit.
   </p>
 </div>
 
