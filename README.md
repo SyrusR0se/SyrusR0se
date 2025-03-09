@@ -22,6 +22,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyrusR0se&bg_color=21262d&color=58a6ff&line=3098c7&point=66ccff&area=true&area_color=323a47" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyrusR0se&bg_color=21262d&color=ffff&line=ffff&point=ffff&area=true&area_color=ffff" 
        alt="Atividade GitHub" />
 </p>
