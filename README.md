@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" 
+  <img src="https://i.pinimg.com/originals/36/6d/94/366d94f67e9cff8c4d02f7e4367ef6b1.gif" 
        alt="Imagem Bonita" 
        style="border: 10px solid #4CAF50; border-radius: 20px; width: 500px; max-width: 90%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </p>
